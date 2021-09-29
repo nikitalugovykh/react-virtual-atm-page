@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-virtual-atm-page/static/js/main.2f4252c0.chunk.js",
-    "main.js.map": "/react-virtual-atm-page/static/js/main.2f4252c0.chunk.js.map",
+    "main.js": "/react-virtual-atm-page/static/js/main.6104edfe.chunk.js",
+    "main.js.map": "/react-virtual-atm-page/static/js/main.6104edfe.chunk.js.map",
     "runtime-main.js": "/react-virtual-atm-page/static/js/runtime-main.6f387899.js",
     "runtime-main.js.map": "/react-virtual-atm-page/static/js/runtime-main.6f387899.js.map",
     "static/js/2.80e9fc7c.chunk.js": "/react-virtual-atm-page/static/js/2.80e9fc7c.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.6f387899.js",
     "static/js/2.80e9fc7c.chunk.js",
-    "static/js/main.2f4252c0.chunk.js"
+    "static/js/main.6104edfe.chunk.js"
   ]
 }
